@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\CsvOutputRepair_20240405\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C46C78-F51D-43D4-A7BB-B5C8153EECAD}|NuGet_20240323\\NuGet_20240323.vbproj|c:\\users\\shota\\source\\repos\\visualstudio\u7528\\vb.net\\csvoutputrepair_20240405\\nuget_20240323\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D9C46C78-F51D-43D4-A7BB-B5C8153EECAD}|NuGet_20240323\\NuGet_20240323.vbproj|solutionrelative:nuget_20240323\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C46C78-F51D-43D4-A7BB-B5C8153EECAD}|NuGet_20240323\\NuGet_20240323.vbproj|C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\CsvOutputRepair_20240405\\nuget_20240323\\csvsample.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D9C46C78-F51D-43D4-A7BB-B5C8153EECAD}|NuGet_20240323\\NuGet_20240323.vbproj|solutionrelative:nuget_20240323\\csvsample.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C46C78-F51D-43D4-A7BB-B5C8153EECAD}|NuGet_20240323\\NuGet_20240323.vbproj|C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\CsvOutputRepair_20240405\\nuget_20240323\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D9C46C78-F51D-43D4-A7BB-B5C8153EECAD}|NuGet_20240323\\NuGet_20240323.vbproj|solutionrelative:nuget_20240323\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C46C78-F51D-43D4-A7BB-B5C8153EECAD}|NuGet_20240323\\NuGet_20240323.vbproj|C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\CsvOutputRepair_20240405\\nuget_20240323\\nuget_20240323.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D9C46C78-F51D-43D4-A7BB-B5C8153EECAD}|NuGet_20240323\\NuGet_20240323.vbproj|solutionrelative:nuget_20240323\\nuget_20240323.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NuGet_20240323",
+              "DocumentMoniker": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\CsvOutputRepair_20240405\\NuGet_20240323\\NuGet_20240323.vbproj",
+              "RelativeDocumentMoniker": "NuGet_20240323\\NuGet_20240323.vbproj",
+              "ToolTip": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\CsvOutputRepair_20240405\\NuGet_20240323\\NuGet_20240323.vbproj",
+              "RelativeToolTip": "NuGet_20240323\\NuGet_20240323.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-03-23T01:16:21.26Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\CsvOutputRepair_20240405\\NuGet_20240323\\Form1.vb",
+              "RelativeDocumentMoniker": "NuGet_20240323\\Form1.vb",
+              "ToolTip": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\CsvOutputRepair_20240405\\NuGet_20240323\\Form1.vb",
+              "RelativeToolTip": "NuGet_20240323\\Form1.vb",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAUwF4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-23T00:41:03.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\CsvOutputRepair_20240405\\NuGet_20240323\\Form1.vb",
+              "RelativeDocumentMoniker": "NuGet_20240323\\Form1.vb",
+              "ToolTip": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\CsvOutputRepair_20240405\\NuGet_20240323\\Form1.vb [Design]",
+              "RelativeToolTip": "NuGet_20240323\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-23T00:14:39.041Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CSVSample.csv",
+              "DocumentMoniker": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\CsvOutputRepair_20240405\\NuGet_20240323\\CSVSample.csv",
+              "RelativeDocumentMoniker": "NuGet_20240323\\CSVSample.csv",
+              "ToolTip": "C:\\Users\\shota\\source\\repos\\VisualStudio\u7528\\VB.net\\CsvOutputRepair_20240405\\NuGet_20240323\\CSVSample.csv",
+              "RelativeToolTip": "NuGet_20240323\\CSVSample.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-03-23T05:09:03.355Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

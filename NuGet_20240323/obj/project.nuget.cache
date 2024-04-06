@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e4RJ/lr9oV3F6VILXAlGh/7wBW2M+vjxzrR5x32wSYrjOi70fmeUVPEtwuDRDTfeGBDAlna5c+PQCjvSyvOgeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shota\\source\\repos\\VisualStudio用\\VB.net\\CsvOutputRepair_20240405\\NuGet_20240323\\NuGet_20240323.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shota\\.nuget\\packages\\csv\\2.0.93\\csv.2.0.93.nupkg.sha512"
+  ],
+  "logs": []
+}
